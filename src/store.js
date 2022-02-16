@@ -4,7 +4,7 @@ export const useStore = create((set) => ({
   // Material
   material: 0,
   setMaterial: (material) => set({ material }),
-  // Material
+  // Size
   size: 1,
   setSize: (size) => set({ size }),
   // Popups
