@@ -1,0 +1,27 @@
+.sidebar {
+  height: 100vh;
+  width: 15%;
+  box-sizing: border-box;
+}
+
+.material {
+  padding-left: 0;
+  display: flex;
+  align-items: center;
+}
+
+.material:hover {
+  cursor: pointer;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.material img {
+  height: 32px;
+  width: 32px;
+  border-radius: 100%;
+  overflow: hidden;
+}
+
+.material span {
+  margin-left: 10px;
+}

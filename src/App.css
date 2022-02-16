@@ -1,0 +1,12 @@
+.p-10 {
+  padding: 10px;
+}
+
+.scene {
+  height: 100vh;
+  width: calc(100vw - 15%);
+}
+
+.wrap {
+  display: flex;
+}
